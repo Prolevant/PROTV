@@ -1,10 +1,10 @@
 {
-  "latestVersion": "3.2.0",
-  "latestVersionCode": "73",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V3.4.0-05-06-2023.apk" ,
-  "urlApp":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V3.4.0-05-06-2023-app.apk" ,
+  "latestVersion": "3.5.0",
+  "latestVersionCode": "76",
+  "url":"https://github.com/Prolevant/PROTV/raw/refs/heads/main/IPTV_Launcher_App%20v3.5.0.apk" ,
+  "urlApp":"https://github.com/Prolevant/PROTV/raw/refs/heads/main/IPTV_Launcher_App%20v3.5.0.apk" ,
   "releaseNotes": [
-    "معالجة الأخطاء وتحسين الأداء ، إضافة منصة الإعلانات والشريط الإعلاني ، إضافة مكتبة المسرحيات"  
+    "معالجة الأخطاء وتحسين الأداء ،  تفعيل حسابات خاصة للأطفال"  
 
   ]
 }
